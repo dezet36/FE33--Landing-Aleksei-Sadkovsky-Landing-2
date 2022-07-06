@@ -1,0 +1,26 @@
+{
+  "name": "fe33--landing-aleksei-sadkovsky-landing-2",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dezet36/FE33--Landing-Aleksei-Sadkovsky-Landing-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dezet36/FE33--Landing-Aleksei-Sadkovsky-Landing-2/issues"
+  },
+  "homepage": "https://github.com/dezet36/FE33--Landing-Aleksei-Sadkovsky-Landing-2#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
+    "concat": "^1.0.3",
+    "parcel": "^2.6.2",
+    "sass": "^1.53.0"
+  }
+}
